@@ -1,0 +1,56 @@
+body{
+    background-color: green;
+    text-align: center;
+    font-size: x-large;
+    margin: 0;
+    padding: 0;
+}
+#bla{
+    color: greenyellow;
+    font-weight: bolder;
+    font-size: 100px;
+    margin-bottom: 2px;
+}
+#ba{
+    color: orange;
+    font-weight: bolder;
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 2;
+}
+#qu{
+    color:black;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+#ca{
+    color: white;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+#su{
+    color: white;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+button{
+    color: green;
+    font-weight: bolder;
+    font-size: xx-large;
+    height: 50px;
+    background-color: yellow;
+    border: none;
+}
+img{
+    height: 120px;
+}
+#nen{
+    color: white;
+    font-weight: bolder;
+}
+input{
+    width: 30%;
+    height: 30px; 
+    font-weight: bolder;
+    font-size: x-large;   
+}
